@@ -10,6 +10,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
+
 var rewire = require("rewire"),
     sinon = require("sinon"),
     eslint = require("eslint").linter,
